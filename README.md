@@ -8,19 +8,21 @@ Want to build modern, cloud-ready SAP Fiori apps on SAP S/4HANA or create ABAP-b
 
 This session introduces attendees to the ABAP RESTful Application Programming Model (RAP) which is available on SAP BTP ABAP Environment, SAP S/4HANA, and SAP S/4HANA Cloud.
 
-**About the ABAP RESTful Application Programming Model**
-> The ABAP RESTful Application Programming Model (RAP) is a set of concepts, tools, languages, and powerful frameworks provided on the ABAP platform. It supports the efficient development of innovative and cloud-ready enterprise applications, as well as the extension of SAP standard applications in an upgrade-stable way in the cloud and on-premise.
+#### About the ABAP RESTful Application Programming Model
+  > The ABAP RESTful Application Programming Model (RAP) is a set of concepts, tools, languages, and powerful frameworks provided on the ABAP platform. It supports the efficient development of innovative and cloud-ready enterprise applications, as well as the extension of SAP standard applications in an upgrade-stable way in the cloud and on-premise.
 
 <details>
-  <summary>Click to expand!</summary>
-  
-RAP is an enabler for improving the user experience and innovating business processes in ABAP-based SAP solutions by leveraging SAP Fiori, SAP HANA, and the cloud. It is a long-term strategic solution for ABAP development on SAP’s flagship product SAP S/4HANA, in the cloud and on-premise (as of release 1909), as well as on the SAP BTP ABAP Environment.
+<summary>Click to expand!</summary>
 
-> **Read more**: [Modernization with RAP](https://blogs.sap.com/2021/10/18/modernization-with-rap/)
+> RAP is an enabler for improving the user experience and innovating business processes in ABAP-based SAP solutions by leveraging SAP Fiori, SAP HANA, and the cloud. 
+> It is a long-term strategic solution for ABAP development on SAP’s flagship product SAP S/4HANA, in the cloud and on-premise (as of release 1909), as well as on the SAP BTP ABAP Environment.
 
-The illustration below shows the high-level end-to-end development stack when working with RAP.  
-
-![RAP Big Picture](images/rap_bigpicture.png)
+>
+> The illustration below shows the high-level end-to-end development stack when working with RAP.  
+> 
+> ![RAP Big Picture](images/rap_bigpicture.png)
+> 
+> **Read more**: [Modernization with the ABAP RESTful Application Programming Model (RAP)](https://blogs.sap.com/2021/10/18/modernization-with-rap/)
 
 </details>
 
