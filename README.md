@@ -22,7 +22,7 @@ This session introduces attendees to the ABAP RESTful Application Programming Mo
 > 
 > ![RAP Big Picture](images/rap_bigpicture.png)
 > 
-> **Read more**: [Modernization with the ABAP RESTful Application Programming Model (RAP)](https://blogs.sap.com/2021/10/18/modernization-with-rap/)
+> **Read more**: [Modern ABAP Development with the ABAP RESTful Application Programming Model (RAP)](https://community.sap.com/topics/abap/rap)
 
 </details>
 
