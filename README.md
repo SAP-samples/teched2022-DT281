@@ -1,4 +1,4 @@
-# DT281 - Build and Extend Apps with the ABAP RESTful Application Programming Model
+# DT281 - Build and Extend Apps with the ABAP RESTful Application Programming Model (RAP)
 
 ## Description
 
