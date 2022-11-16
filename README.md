@@ -39,9 +39,9 @@ The requirements to follow the exercises in this repository are:
 
 Start the exercises [here](https://github.com/SAP-samples/abap-platform-rap-workshops/tree/main/rap1xx/rap100#exercises).
 
-## Session presentation
+## Presentation
 
-Access the presentation: [DT281_RAP@SAP_TechEd_2022.pdf](/sources/DT281_RAP@SAP_TechEd_2022.pdf)
+Access the session presentation: [DT281_RAP@SAP_TechEd_2022.pdf](/sources/DT281_RAP@SAP_TechEd_2022.pdf)
 
 ## How to obtain support
 
