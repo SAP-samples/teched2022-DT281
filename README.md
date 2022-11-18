@@ -1,3 +1,5 @@
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2022-DT281)](https://api.reuse.software/info/github.com/SAP-samples/teched2022-DT281)
+
 # DT281 - Build and Extend Apps with the ABAP RESTful Application Programming Model (RAP)
 
 ## Description
