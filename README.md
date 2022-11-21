@@ -32,10 +32,14 @@ This session introduces attendees to the ABAP RESTful Application Programming Mo
 ## Requirements
 
 The requirements to follow the exercises in this repository are:
+1. [Install the latest Eclipse platform and the latest ABAP Development Tools (ADT) plugin](https://developers.sap.com/tutorials/abap-install-adt.html)
+2. [Create an user on the SAP BTP ABAP Environment Trial](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
+
+<!--
 1. [Install the latest Eclipse platform](https://www.eclipse.org/downloads/packages/installer)	
 2. [Install the latest ABAP Development Tools (ADT) plugin](https://tools.hana.ondemand.com/#abap) 
 3. [Create an user on the SAP BTP ABAP Environment Trial](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html)
-
+-->
 
 ## Exercises
 
